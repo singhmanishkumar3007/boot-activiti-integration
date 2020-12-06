@@ -2,7 +2,7 @@
 *.class
 *.DS_Store
 target
-
+target/*
 mvnw
 mvnw.cmd
 
